@@ -2,7 +2,7 @@ module github.com/mfrw/cblmake
 
 go 1.17
 
-require github.com/microsoft/CBL-Mariner/toolkit/tools v0.0.0-20220512050833-f1e362574501
+require github.com/microsoft/CBL-Mariner/toolkit/tools v0.0.0-20220513020237-b11ed21ce14a
 
 require (
 	github.com/alecthomas/template v0.0.0-20190718012654-fb15b899a751 // indirect
